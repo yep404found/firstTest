@@ -4,6 +4,4 @@
 Created on Sun Dec  2 12:21:23 2018
 
 
-"""
-
 print("Hello Github!")
